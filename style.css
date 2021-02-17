@@ -1,0 +1,15 @@
+body{
+    background-image: url(lalibella.jpg);color: white
+}
+ul{
+   border-style: solid;border-width: 2px;border-color: white;
+}
+ul li{
+   list-style: none;
+   display: inline;
+   padding-left: 20px;
+   color: black;
+}
+.mainleft{
+    width: 1000px;float: left
+}
